@@ -29,6 +29,7 @@ mongoose.connect(config.MONGODB_URI, { useNewUrlParser: true })
 app.use(getTokenFrom)
 app.use(cors())
 app.use(bodyParser.json())
+app.use(express.static('build'))
 
 app.use('/api/blogs', blogsRouter)
 app.use('/api/users', usersRouter)
