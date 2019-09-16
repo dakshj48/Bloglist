@@ -1,5 +1,5 @@
 {
-  "name": "part4",
+  "name": "bloglist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "deploy:full": "npm run build:ui && git add . && git commit -m uibuild && git push && npm run deploy",
     "logs:prod": "heroku logs --tail"
   },
-  "author": "",
+  "author": "dakshjain",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
