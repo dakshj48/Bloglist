@@ -8,5 +8,5 @@ Users can add new blogs to the list, like and comment on existing blogs in the l
 
 
 To check it out:
-1. [Click](https://pacific-waters-38107.herokuapp.com/) to access the web application.
+1. <a href="https://pacific-waters-38107.herokuapp.com/" target="_blank">Click</a> to access the web application.
 2. Enter "__user__" in the username field and "__pass__" in the password field.
