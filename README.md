@@ -1,8 +1,8 @@
 # Bloglist
 
-A web app made using React as a part of the Full Stack Open online course. Made by combining [part 4](https://github.com/dakshj48/FSO2019/tree/master/part4) and [part 7](https://github.com/dakshj48/FSO2019/tree/master/part7/bloglist).
+A web app made using React.
 
-This application enables the users to add their blogs in a list of blogs so that the people who are interested in a topic can find articles related to that topic. 
+This web application enables the users to add links to blogs to a list of blogs. 
 
 Users can add new blogs to the list, like and comment on existing blogs in the list and remove the blogs that they have added.
 
