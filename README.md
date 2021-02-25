@@ -1,6 +1,6 @@
 # Bloglist
 
-A web app made using React.
+A web app made using React, Express, Node.js and MongoDB (MERN stack).
 
 This web application enables the users to add links to blogs to a list of blogs. 
 
