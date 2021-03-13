@@ -2,7 +2,7 @@
 
 A web app made using React, Express, Node.js and MongoDB (MERN stack). Code for front-end: <a href="https://github.com/dakshj48/FSO2019/tree/master/part7/bloglist" target="_blank">link</a>.
 
-This web application enables the users to add links to blogs to a list of blogs. 
+This web application enables the users to add links to blogs to a list. 
 
 Users can add new blogs to the list, like and comment on existing blogs in the list and remove the blogs that they have added.
 
