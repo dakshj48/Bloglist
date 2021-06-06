@@ -1,4 +1,5 @@
 # Bloglist
+[![CodeQL](https://github.com/dakshj48/Bloglist/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/dakshj48/Bloglist/actions/workflows/codeql-analysis.yml)
 
 A web app made using React, Express, Node.js and MongoDB (MERN stack). Code for front-end: <a href="https://github.com/dakshj48/FSO2019/tree/master/part7/bloglist" target="_blank">link</a>.
 
